@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 May 2023 13:25:25 -0700</pubDate>
-    <lastBuildDate>Fri, 05 May 2023 13:25:25 -0700</lastBuildDate>
+    <pubDate>Fri, 05 May 2023 13:53:01 -0700</pubDate>
+    <lastBuildDate>Fri, 05 May 2023 13:53:01 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -28,26 +28,6 @@ Suzume is a great film that suffers from a struggle between the message it’s t
         
         
         <category>Anime</category>
-        
-      </item>
-    
-      <item>
-        <title>Example Post from HyG</title>
-        <description>
-本系列为 &lt;a href=&quot;https://threejs-journey.com/&quot;&gt;Three.js journey&lt;/a&gt; 教程学习笔记。
-
-我们上一节最后将汉堡模型导入到了 Three.js 的场景中了，但是颜色效果很奇怪。为了让它渲染的更真实，我们需要做一些额外的操作，接下来就一起看看吧~
-</description>
-        <pubDate>Sun, 09 Oct 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2022/10/09/three-realistic-render/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/10/09/three-realistic-render/</guid>
-        
-        <category>Three.js</category>
-        
-        <category>WebGL</category>
-        
-        
-        <category>Three.js</category>
         
       </item>
     
